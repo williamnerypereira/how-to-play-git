@@ -1,7 +1,6 @@
 Opa, estamos aprendendo usar o Git.
 
-
-Lero lero
-
-
 Opa... estamos finalizando a aula 01.
+
+
+Opa, mais 1x... muito obrigado!
